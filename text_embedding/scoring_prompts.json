@@ -1,0 +1,364 @@
+{
+    "Steatosis": {
+        "S0": {
+            "patch_cellular": [
+                "Hepatocytes show normal size with clear cytoplasm.",
+                "Hepatocytes without visible fat droplets.",
+                "Kupffer cells appear inactive among healthy hepatocytes.",
+                "Sinusoidal endothelial cells line intact liver lobules.",
+                "No steatotic hepatocytes observed in this region.",
+                "Hepatocytes show uniform dense cytoplasm without lipid droplets.",
+                "No macrovesicular or microvesicular fat accumulation detected locally.",
+                "Polygonal cells, central nuclei, cytoplasm appears normal and intact.",
+                "Absence of visible vacuoles; parenchyma retains typical texture.",
+                "Normal liver cell morphology with no fat-related changes."
+            ],
+            "patch_grade": [
+                "No steatosis",
+                "No fat accumulation in this patch.",
+                "Liver tissue exhibits normal lipid distribution.",
+                "Absence of steatosis in hepatocyte cytoplasm.",
+                "Clear lobular architecture without lipid vacuoles.",
+                "Normal hepatic morphology observed."
+            ],
+            "slide_grade": [
+                "No steatosis",
+                "No steatosis across the slide.",
+                "Hepatocytes show uniform cytoplasm throughout tissue.",
+                "Liver architecture intact, no fat infiltration.",
+                "No evidence of steatosis globally.",
+                "Steatosis grade 0 confirmed slide-wide."
+            ],
+            "slide_report": [
+                "Liver shows no fatty changes; hepatocytes remain normal.",
+                "No lipid vacuole detected in the specimen.",
+                "Hepatic parenchyma without steatosis features.",
+                "Microscopy confirms absence of fatty infiltration.",
+                "Slide reveals grade 0 steatosis with normal histology."
+            ]
+        },
+        "S1": {
+            "patch_cellular": [
+                "Hepatocytes contain few small lipid droplets.",
+                "Kupffer cells distributed among mild steatotic hepatocytes.",
+                "Sparse fat droplets within hepatocyte cytoplasm.",
+                "Normal sinusoidal structure with minimal fat changes.",
+                "Occasional hepatocyte vacuoles noted.",
+                "Few hepatocytes contain small lipid vacuoles with minimal displacement.",
+                "Scattered microvesicular fat droplets present in limited hepatocytes.",
+                "Mild steatosis with sparse and fine lipid inclusions.",
+                "Isolated fat-containing cells among otherwise normal hepatocytes.",
+                "Low-grade fat accumulation without major cytoplasmic distortion."
+            ],
+            "patch_grade": [
+                "Mild steatosis",
+                "Mild steatosis present in limited area.",
+                "Few scattered lipid vacuoles observed.",
+                "Minimal fat accumulation within lobules.",
+                "Localized steatosis detected.",
+                "Low-grade fatty change present."
+            ],
+            "slide_grade": [
+                "Mild steatosis",
+                "Mild steatosis involving less than one-third of tissue.",
+                "Scattered lipid droplets in hepatocytes slide-wide.",
+                "Minimal steatosis present across sections.",
+                "Low-grade fat infiltration observed.",
+                "Steatosis grade 1 confirmed."
+            ],
+            "slide_report": [
+                "Mild steatotic changes, affecting limited hepatocyte regions.",
+                "Low proportion of hepatocytes contain fat droplets.",
+                "Slide shows early fatty liver changes.",
+                "Mild, patchy steatosis observed.",
+                "Grade 1 steatosis confirmed histologically."
+            ]
+        },
+        "S2": {
+            "patch_cellular": [
+                "Hepatocytes with multiple large lipid vacuoles.",
+                "Kupffer cells adjacent to steatotic hepatocytes.",
+                "Moderate fat droplets displacing hepatocyte nuclei.",
+                "Clumped lipid accumulation within lobules.",
+                "Hepatocyte cytoplasm largely occupied by fat.",
+                "Macrovesicular fat droplets occupy most hepatocyte cytoplasm.",
+                "Numerous fat-laden hepatocytes with mild cellular enlargement.",
+                "Widespread medium-to-large lipid droplets in this field.",
+                "Hepatic parenchyma moderately affected by fat deposition."
+            ],
+            "patch_grade": [
+                "Moderate steatosis",
+                "Moderate steatosis involving many hepatocytes.",
+                "Widespread fat accumulation seen in this patch.",
+                "Lipid vacuoles cover around half of the area.",
+                "Moderate fatty infiltration observed.",
+                "Intermediate grade steatosis present."
+            ],
+            "slide_grade": [
+                "Moderate steatosis",
+                "Steatosis involving one-third to two-thirds of tissue.",
+                "Moderate, diffuse fatty change observed.",
+                "Hepatocytes with prominent lipid droplets widespread.",
+                "Steatosis grade 2 confirmed.",
+                "Substantial steatotic involvement slide-wide."
+            ],
+            "slide_report": [
+                "Moderate steatosis affecting large hepatic regions.",
+                "Fat droplets occupy 33–66% of parenchyma.",
+                "Moderate, diffuse fatty infiltration identified.",
+                "Grade 2 steatosis, prominent throughout sections.",
+                "Histology shows intermediate-stage fatty liver."
+            ]
+        },
+        "S3": {
+            "patch_cellular": [
+                "Most hepatocytes filled with large lipid droplets.",
+                "Kupffer cells compressed by massive fat accumulation.",
+                "Hepatocytes nearly replaced by macrovesicular fat.",
+                "Severe displacement of nuclei by lipid vacuoles.",
+                "Diffuse fat-laden hepatocytes present.",
+                "Most cells contain giant vacuoles pushing nuclei peripherally.",
+                "Extensive lipid accumulation replacing normal cytoplasmic contents.",
+                "Diffuse fat deposition with hepatocyte architecture severely distorted.",
+                "Marked macrovesicular steatosis occupying nearly all liver tissue."
+            ],
+            "patch_grade": [
+                "Severe steatosis",
+                "Severe steatosis in nearly all hepatocytes.",
+                "Extensive fat accumulation in this patch.",
+                "High-grade fatty infiltration present.",
+                "Lipid vacuoles cover most of the tissue.",
+                "Advanced steatosis observed."
+            ],
+            "slide_grade": [
+                "Severe steatosis",
+                "Steatosis involves more than two-thirds of tissue.",
+                "Diffuse, severe fatty change across the slide.",
+                "Massive lipid accumulation widespread.",
+                "Steatosis grade 3 confirmed globally.",
+                "Extensive steatosis throughout liver sections."
+            ],
+            "slide_report": [
+                "Severe steatosis affecting over two-thirds of hepatocytes.",
+                "Massive fatty infiltration, advanced stage.",
+                "Grade 3 steatosis confirmed histologically.",
+                "Liver shows widespread macrovesicular steatosis.",
+                "Extensive fat deposition across parenchyma."
+            ]
+        }
+    },
+    "Inflammation": {
+        "I0": {
+            "patch_cellular": [
+                "Kupffer cells appear normal without inflammatory activation.",
+                "Lymphocytes sparsely distributed, non-reactive.",
+                "No neutrophil infiltration present.",
+                "Sinusoidal spaces free of inflammatory cells.",
+                "Normal lobular immune profile observed."
+            ],
+            "patch_grade": [
+                "No lobular inflammation detected.",
+                "Absence of inflammatory cell clusters.",
+                "Liver tissue free from active inflammation.",
+                "No immune cell infiltration seen.",
+                "Inflammation grade 0 in this area."
+            ],
+            "slide_grade": [
+                "No significant lobular inflammation across slide.",
+                "Normal immune cell distribution observed.",
+                "Absence of lobular foci globally.",
+                "Liver shows no active inflammation.",
+                "Grade 0 inflammation confirmed."
+            ],
+            "slide_report": [
+                "Liver sections show no evidence of inflammation.",
+                "Kupffer cells and lymphocytes inactive.",
+                "No lobular inflammatory activity detected.",
+                "Microscopy confirms absence of inflammation.",
+                "Inflammation grade 0 assigned."
+            ]
+        },
+        "I1": {
+            "patch_cellular": [
+                "Few Kupffer cells activated in lobules.",
+                "Sparse lymphocyte infiltration in sinusoids.",
+                "Minimal neutrophil presence detected.",
+                "Low-grade immune activity near hepatocytes.",
+                "Occasional inflammatory foci present."
+            ],
+            "patch_grade": [
+                "Mild lobular inflammation observed.",
+                "Few immune cell foci detected.",
+                "Low-grade inflammatory response present.",
+                "Scattered inflammatory cells noted.",
+                "Grade 1 inflammation localized."
+            ],
+            "slide_grade": [
+                "Mild lobular inflammation affecting limited regions.",
+                "Low-density immune foci present slide-wide.",
+                "Minimal inflammatory activity detected.",
+                "Grade 1 inflammation confirmed globally.",
+                "Sparse lobular inflammation observed."
+            ],
+            "slide_report": [
+                "Mild lobular inflammation with few inflammatory foci.",
+                "Scattered Kupffer cells and lymphocytes active.",
+                "Grade 1 inflammatory response identified.",
+                "Minimal immune infiltration seen histologically.",
+                "Slide shows mild inflammatory activity."
+            ]
+        },
+        "I2": {
+            "patch_cellular": [
+                "Kupffer cells moderately activated with lymphocyte clusters.",
+                "Several neutrophils infiltrate lobular spaces.",
+                "Moderate lymphocytic presence noted.",
+                "Kupffer cell expansion near portal regions.",
+                "Inflammatory foci moderately distributed."
+            ],
+            "patch_grade": [
+                "Moderate lobular inflammation present.",
+                "Inflammatory cells form multiple foci.",
+                "Intermediate immune activity observed.",
+                "Inflammation grade 2 localized.",
+                "Moderate inflammatory response ongoing."
+            ],
+            "slide_grade": [
+                "Moderate lobular inflammation throughout tissue.",
+                "Several inflammatory clusters widespread.",
+                "Grade 2 inflammation confirmed globally.",
+                "Liver with intermediate inflammatory activity.",
+                "Inflammation moderately affects slide."
+            ],
+            "slide_report": [
+                "Moderate lobular inflammation affecting multiple regions.",
+                "Kupffer cells and lymphocytes moderately active.",
+                "Grade 2 inflammatory process seen histologically.",
+                "Slide shows moderate immune infiltration.",
+                "Widespread but not severe inflammation observed."
+            ]
+        },
+        "I3": {
+            "patch_cellular": [
+                "Kupffer cells densely activated with neutrophil influx.",
+                "Large lymphocyte clusters occupy lobules.",
+                "Severe neutrophil infiltration near central veins.",
+                "Massive immune cell presence observed.",
+                "Intense inflammatory foci throughout."
+            ],
+            "patch_grade": [
+                "Severe lobular inflammation present.",
+                "Dense inflammatory cell aggregates noted.",
+                "High-grade immune response active.",
+                "Liver parenchyma heavily infiltrated.",
+                "Grade 3 inflammation localized."
+            ],
+            "slide_grade": [
+                "Severe lobular inflammation across most of slide.",
+                "Extensive immune foci globally present.",
+                "Grade 3 inflammation confirmed globally.",
+                "High inflammatory burden slide-wide.",
+                "Massive lobular inflammation observed."
+            ],
+            "slide_report": [
+                "Severe lobular inflammation with dense immune foci.",
+                "Kupffer cells, lymphocytes, and neutrophils highly active.",
+                "Grade 3 inflammatory process confirmed.",
+                "Marked immune infiltration throughout liver.",
+                "Slide reveals advanced inflammatory activity."
+            ]
+        }
+    },
+    "Ballooning": {
+        "B0": {
+            "patch_cellular": [
+                "Hepatocytes maintain normal size without ballooning.",
+                "No swollen hepatocytes detected.",
+                "Kupffer cells appear quiescent.",
+                "Cytoplasm clear and compact.",
+                "Liver cells structurally intact."
+            ],
+            "patch_grade": [
+                "No hepatocyte ballooning present.",
+                "Normal hepatocellular morphology observed.",
+                "Ballooning grade 0 localized.",
+                "No cytoplasmic swelling detected.",
+                "Lobules free of ballooning changes."
+            ],
+            "slide_grade": [
+                "No ballooning degeneration across slide.",
+                "Normal hepatocyte architecture globally.",
+                "Grade 0 ballooning confirmed.",
+                "Liver tissue without cytoplasmic ballooning.",
+                "No ballooning changes in sections."
+            ],
+            "slide_report": [
+                "Hepatocytes show no ballooning degeneration.",
+                "Liver architecture normal without ballooning.",
+                "Ballooning grade 0 assigned.",
+                "Microscopy confirms absence of ballooning.",
+                "No evidence of hepatocyte swelling."
+            ]
+        },
+        "B1": {
+            "patch_cellular": [
+                "Few hepatocytes show ballooning with pale cytoplasm.",
+                "Isolated swollen hepatocytes detected.",
+                "Kupffer cells near ballooned hepatocytes.",
+                "Localized hepatocyte enlargement seen.",
+                "Mild cytoplasmic rarefaction observed."
+            ],
+            "patch_grade": [
+                "Mild ballooning in limited lobular area.",
+                "Few ballooned hepatocytes present.",
+                "Ballooning grade 1 localized.",
+                "Low-grade swelling detected.",
+                "Patch shows mild hepatocyte ballooning."
+            ],
+            "slide_grade": [
+                "Mild hepatocyte ballooning across slide.",
+                "Scattered ballooning degeneration present.",
+                "Grade 1 ballooning confirmed.",
+                "Low-grade ballooning changes globally.",
+                "Slide shows limited ballooning."
+            ],
+            "slide_report": [
+                "Mild hepatocyte ballooning identified histologically.",
+                "Few ballooned cells scattered throughout.",
+                "Grade 1 ballooning degeneration present.",
+                "Microscopy reveals mild ballooning changes.",
+                "Slide indicates early ballooning stage."
+            ]
+        },
+        "B2": {
+            "patch_cellular": [
+                "Many hepatocytes show severe ballooning with pale cytoplasm.",
+                "Clusters of swollen hepatocytes detected.",
+                "Kupffer cells compressed by ballooned hepatocytes.",
+                "Extensive cytoplasmic rarefaction observed.",
+                "Ballooned hepatocytes displacing sinusoidal structure."
+            ],
+            "patch_grade": [
+                "Severe ballooning present in this patch.",
+                "Ballooning grade 2 localized.",
+                "Widespread hepatocyte swelling detected.",
+                "High-grade ballooning degeneration observed.",
+                "Patch shows advanced ballooning changes."
+            ],
+            "slide_grade": [
+                "Severe ballooning degeneration across slide.",
+                "Grade 2 ballooning confirmed.",
+                "Widespread ballooning hepatocytes globally.",
+                "Extensive hepatocyte swelling seen.",
+                "Slide with high-grade ballooning changes."
+            ],
+            "slide_report": [
+                "Severe ballooning degeneration affecting many hepatocytes.",
+                "Grade 2 ballooning process confirmed.",
+                "Widespread hepatocyte swelling histologically evident.",
+                "Marked cytoplasmic rarefaction observed slide-wide.",
+                "Slide indicates advanced ballooning degeneration."
+            ]
+        }
+    }
+}
