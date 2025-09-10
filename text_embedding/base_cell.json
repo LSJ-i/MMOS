@@ -1,0 +1,53 @@
+{
+    "BaseCells": {
+        "Hepatocyte": [
+            "Hepatocytes show polygonal shape with eosinophilic cytoplasm.",
+            "Hepatocytes align in cords radiating from central vein.",
+            "Hepatocytes display clear cell borders and round nuclei.",
+            "Hepatocytes contain mild glycogen granules in cytoplasm.",
+            "Hepatocytes maintain normal architecture without degeneration."
+        ],
+        "KupfferCell": [
+            "Kupffer cells line sinusoidal walls as resident macrophages.",
+            "Kupffer cells exhibit phagocytic activity near sinusoidal lumen.",
+            "Kupffer cells show oval nuclei and abundant cytoplasm.",
+            "Kupffer cells are scattered along sinusoidal endothelium.",
+            "Kupffer cells contain phagosomes with cellular debris."
+        ],
+        "Lymphocyte": [
+            "Lymphocytes infiltrate portal tract sparsely without clustering.",
+            "Lymphocytes are small round cells with dense nuclei.",
+            "Lymphocytes aggregate mildly near bile ducts.",
+            "Lymphocytes circulate within sinusoidal capillaries.",
+            "Lymphocytes appear reactive but not forming foci."
+        ],
+        "Neutrophil": [
+            "Neutrophils appear segmented with multilobed nuclei.",
+            "Neutrophils infiltrate mildly around central vein.",
+            "Neutrophils gather near necrotic hepatocyte regions.",
+            "Neutrophils exhibit active chemotaxis toward inflammation site.",
+            "Neutrophils show cytoplasmic granules with faint eosinophilia."
+        ],
+        "StellateCell": [
+            "Hepatic stellate cells reside in perisinusoidal space.",
+            "Stellate cells contain lipid droplets in quiescent state.",
+            "Stellate cells activate into myofibroblasts during injury.",
+            "Stellate cells show elongated shape between hepatocyte cords.",
+            "Stellate cells regulate extracellular matrix deposition."
+        ],
+        "BiliaryEpithelialCell": [
+            "Biliary epithelial cells form cuboidal lining of bile ducts.",
+            "Biliary cells show uniform nuclei and clear cytoplasm.",
+            "Biliary cells align in ductules with mild hyperplasia.",
+            "Biliary epithelial cells maintain intact basement membrane.",
+            "Biliary cells display occasional mitotic figures in regeneration."
+        ],
+        "EndothelialCell": [
+            "Endothelial cells line hepatic sinusoids with flattened nuclei.",
+            "Endothelial cells maintain fenestrated sinusoidal barrier.",
+            "Endothelial cells show elongated nuclei along vessel wall.",
+            "Endothelial cells exhibit mild swelling in congestion.",
+            "Endothelial cells regulate portal blood flow dynamically."
+        ]
+    }
+}
