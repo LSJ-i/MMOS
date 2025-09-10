@@ -20,9 +20,7 @@ from utils.metrics import calculate_metrics
 from utils.text import load_text_embeddings
 
 
-# ------------------------
-# 工具函数
-# ------------------------
+
 def set_random_seed(seed: int = 42):
     torch.manual_seed(seed)
     torch.cuda.manual_seed_all(seed)
@@ -53,9 +51,6 @@ def softlabel(bag_label, num_class, sigma):
     return torch.softmax(-torch.square(bag_label.repeat(num_class) - torch.arange(num_class)).float()/ sigma, dim=0)
 
 
-# ------------------------
-# 训练 & 验证函数
-# ------------------------
 def train_one_epoch(
     model,
     train_loader,
