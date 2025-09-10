@@ -128,13 +128,3 @@ python train.py --config exp/config.yaml
 
 ---
 
-## 📄 License & Citation
-
-Add your preferred license (e.g. MIT) and citation information in this section.
-
----
-
-## ✉️ Contact
-
-For questions or issues, open an issue in the repository or contact the maintainer.
-
