@@ -36,6 +36,7 @@ dataset_root/
 - `features/` contains per-case feature files. Supported formats: `.h5`, `.pt`, `.csv`.
 - `labels.csv` is a CSV table with case IDs as the first column (index) and target label columns.
 
+datasets is is currently being reorganized and anonymized to comply with medical ethics review, coming soon!
 **Example `labels.csv` (index is `case_id`):**
 
 | case_id | steatosis | inflammation | ballooning
