@@ -17,7 +17,7 @@ pip install -r requirements.txt
 ---
 
 ## 📂 Dataset Layout
-**Datasets is is currently being reorganized and anonymized to comply with medical ethics review, coming soon!**
+**The dataset is currently being reorganized and anonymized to comply with medical ethics review, coming soon!**
 
 Organize your dataset like this:
 
